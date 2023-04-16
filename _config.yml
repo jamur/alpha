@@ -1,8 +1,8 @@
 name: Alpha
 description: Alphs template for Jekyll
-baseurl: '/alpha'
+baseurl: ''
 
-url: "https://seusite.site"
+url: "https://seusite.site/alpha"
 
 paginate: 10
 
